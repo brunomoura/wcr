@@ -110,9 +110,9 @@ If this causes problems for you, you may want to try changing your terminal's co
 
 ### User interactions 
 
-* First screen is a list of recipes ordered by user ratings.
-* It's possible to vote for a recipe, just do a long press over it and the stars number will increase and reorder the list.
-* It's possible to click on each recipe and open a more detail screen
+* First screen is a list of recipes ordered by user ratings. https://drive.google.com/file/d/0B8frbnwMdv-HQlhqbG91Y3J3REhHRjBobGoxbE9PR1lwOUdR/view?usp=sharing
+* It's possible to vote for a recipe, just do a long press over it and the stars number will increase and reorder the list. https://drive.google.com/file/d/0B8frbnwMdv-HSTdVRXVERXVJUWJJUU5zc3NpenFiSmgxb0pN/view?usp=sharing
+* It's possible to click on each recipe and open a more detail screen. https://drive.google.com/file/d/0B8frbnwMdv-HN3J6NkVRYU9NQi0wTVc5NUpYRkRkUFQyYTN3/view?usp=sharing
 
 ### TODO
 
